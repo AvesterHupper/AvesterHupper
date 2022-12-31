@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AvesterHupper
 - 👀 I’m interested in: backend apps and server security
-- 🌱 I’m currently learning: python (made out of bytes, not skin)
+- 🌱 I’m currently learning: python (made out of code, not meat)
 - 📫 How to reach me: avester.git@gmail.com
 
 
